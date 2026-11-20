@@ -1,0 +1,13 @@
+{
+  "name": "object-store-conditional-delete-racer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "本地模拟版本化对象存储的条件删除（If-Match / ETag）、并发写入、删除标记与保留策略",
+  "engines": {
+    "node": ">=24.16.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
